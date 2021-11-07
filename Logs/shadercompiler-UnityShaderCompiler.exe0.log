@@ -1,0 +1,24 @@
+Couldn't connect IPC stream
+
+Quitting shader compiler process
+
+Crashed!
+=======================================
+0x00007ff753beca3c (UnityShaderCompiler) 
+0x00007ff753bf0872 (UnityShaderCompiler) 
+0x00007ff753bd7243 (UnityShaderCompiler) 
+0x00007ff753bcd182 (UnityShaderCompiler) 
+0x00007ff92400c347 (KERNELBASE) UnhandledExceptionFilter
+0x00007ff9263551b0 (ntdll) memset
+0x00007ff92633c766 (ntdll) _C_specific_handler
+0x00007ff9263520cf (ntdll) _chkstk
+0x00007ff926301454 (ntdll) RtlRaiseException
+0x00007ff926350bfe (ntdll) KiUserExceptionDispatcher
+0x00007ff753bd9376 (UnityShaderCompiler) 
+0x00007ff753bb88a8 (UnityShaderCompiler) 
+0x00007ff753bd44c2 (UnityShaderCompiler) 
+0x00007ff753c900b8 (UnityShaderCompiler) 
+0x00007ff924d67034 (KERNEL32) BaseThreadInitThunk
+0x00007ff926302651 (ntdll) RtlUserThreadStart
+
+=======================================
